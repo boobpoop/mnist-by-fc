@@ -11,4 +11,4 @@
 ![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/test_excel.png)
 
 # test graph
-![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/flow_graph.png)
+![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/test_graph.png)
