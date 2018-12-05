@@ -1,14 +1,17 @@
 # flow chart
-![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/flow_chart.png)
+![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/mnist-fc.png)
 
-# training excel
-![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/training_excel.png)
+# training table
+![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/train_table.png)
 
-# training graph
-![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/training_graph.png)
+# train graph1
+![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/train_graph1.png)
 
-# test excel
-![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/test_excel.png)
+# train graph2
+![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/train_graph2.png)
+
+# test table
+![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/test_table.png)
 
 # test graph
 ![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/test_graph.png)
