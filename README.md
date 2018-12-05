@@ -1,7 +1,7 @@
 # flow chart
 ![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/mnist-fc.png)
 
-# training table
+# train table
 ![fd](https://github.com/boobpoop/mnist-fc/blob/master/image/train_table.png)
 
 # train graph1
